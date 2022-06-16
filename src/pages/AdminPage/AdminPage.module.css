@@ -1,0 +1,11 @@
+.createButton {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 150px;
+    height: 30px;
+    background-color: #335252;
+    color: #D4DDE1;
+    border: none;
+    border-radius: 5px;
+}
+

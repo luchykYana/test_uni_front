@@ -1,0 +1,31 @@
+.bcSea {
+    background: #335252;
+    margin-bottom: 20px;
+}
+
+.dFlex {
+    display: flex;
+    align-items: center;
+}
+
+.cText {
+    color: #D4DDE1;
+    font-size: 26px;
+}
+
+.smallSize{
+    font-size: 15px;
+}
+.cB{
+    color: #AA4B41;
+}
+
+.border {
+    border: 2px solid #AA4B41;
+    padding: 7px;
+}
+
+.h80 {
+    height: 80px;
+    margin: 0 50px;
+}

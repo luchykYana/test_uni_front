@@ -1,0 +1,37 @@
+.form {
+    width: 500px;
+    padding: 20px;
+    background-color: #335252;
+    color: #D4DDE1;
+    display: block;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.form input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.form > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form > button {
+    color: #D4DDE1;
+    background-color: #AA4B41;
+    border: none;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 235px;
+    padding: 5px;
+}
+
+.fSize14 {
+    font-size: 14px;
+}

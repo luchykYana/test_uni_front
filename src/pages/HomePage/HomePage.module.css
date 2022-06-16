@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background-color: #D4DDE1;
+    height: calc(100vh);
+    overflow: hidden;
+    overflow-y: auto;
+}

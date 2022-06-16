@@ -1,0 +1,47 @@
+.news {
+    width: 1000px;
+    background-color: #2D3033;
+    color: #D4DDE1;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.dFlex {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+}
+
+.fSize24{
+    font-size: 24px;
+}
+
+.fSize18{
+    font-size: 18px;
+}
+
+.fSize15{
+    font-size: 15px;
+}
+
+.mb10 {
+    margin-bottom: 20px;
+}
+.mr10 {
+    margin-right: 20px;
+}
+
+.cB {
+   color: #AA4B41;
+}
+
+.back {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0 5px;
+    background-color: #335252;
+    color: #D4DDE1;
+    border-radius: 2px;
+    border: none;
+    margin-left: 20px;
+}

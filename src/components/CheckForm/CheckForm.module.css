@@ -1,0 +1,40 @@
+.checkForm {
+    width: 400px;
+    padding: 20px;
+    background-color: #335252;
+    color: #D4DDE1;
+    display: block;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+.checkForm div>input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.checkForm div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkForm > .div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.checkForm > button {
+    color: #D4DDE1;
+    background-color: #AA4B41;
+    border: none;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+}

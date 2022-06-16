@@ -1,0 +1,15 @@
+.createPage {
+    display: flex;
+}
+
+.back {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0 5px;
+    background-color: #335252;
+    color: #D4DDE1;
+    border-radius: 2px;
+    border: none;
+    margin-left: 20px;
+}
+
